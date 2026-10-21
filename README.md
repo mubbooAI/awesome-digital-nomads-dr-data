@@ -37,6 +37,7 @@
 - [Kayak](http://kayak.com/flights) - Comprehensive flight search tool with price trend analysis and alert features for optimal booking timing.
 - [Kiwi.com](http://kiwi.com) - Innovative flight search engine offering flexible date options and unique routing combinations for cost-effective travel.
 - [LoungeBuddy](https://loungebuddy.com) - App for discovering, accessing, and reviewing airport lounges globally, with options for one-time passes.
+- [Mubboo Flights](https://mubboo.flights/) - Compare flights, hotels and car rentals, with destination guides, tours and attraction tickets for trip planning.
 - [Priority Pass](https://prioritypass.com) - Membership program offering access to over 1300 airport lounges worldwide for a more comfortable travel experience.
 - [SeatGuru](http://seatguru.com) - Detailed aircraft seating charts and traveler reviews to help you choose the best seats for your flight.
 - [SleepingInAirports](http://sleepinginairports.net) - Comprehensive guide to surviving and thriving during long layovers and overnight airport stays.
